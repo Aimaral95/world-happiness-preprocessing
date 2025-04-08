@@ -1,30 +1,29 @@
- # 🌍 World Happiness Report (2020–2024) – Data Preprocessing Project
+ # 🌍 World Happiness Report (2020–2024) – Data Preprocessing and Model 
 
-This project demonstrates **data preprocessing** using the World Happiness Report datasets from 2020 to 2024. The preprocessing includes five essential steps:
+This project shows **data preprocessing** using the World Happiness Report datasets from 2020 to 2024. We have implemented five steps of Data Preprocessing:
 
 ---
 
-## ✅ Preprocessing Steps & Techniques
+## Preprocessing Steps and Techniques
 
-| Step                   | Technique(s) Used                                |
+| Steps                  | Technique Used                                   |
 |------------------------|--------------------------------------------------|
 | 1. Data Integration    | Combined multiple CSV files (2020–2024)          |
 | 2. Data Cleaning       | Standardized column names, handled missing data  |
-| 3. Data Reduction      | PCA (Principal Component Analysis)               |
+| 3. Data Reduction      | Principal Component Analysis                     |
 | 4. Data Transformation | Min-Max Normalization, Discretization            |
-| 5. Data Mining         | KMeans Clustering (visualized on PCA components) |
+| 5. Data Discretization | KMeans Clustering (visualized on PCA components) |
 
 ---
 
-## 🖼️ PCA + KMeans Clustering Plot
+## PCA + KMeans Clustering Plot
 
 ![Clustering Result](screenshot.png)
 
 ---
 
-## 🛠️ How to Run
+## In order to Run this Project:
 
-### Prerequisites:
 Install dependencies using:
 
 ```bash
