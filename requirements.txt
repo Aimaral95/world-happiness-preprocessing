@@ -1,0 +1,13 @@
+
+---
+
+## 📄 requirements.txt
+
+Add this to `requirements.txt` so others can install all necessary libraries:
+
+```txt
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
